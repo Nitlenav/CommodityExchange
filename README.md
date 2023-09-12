@@ -6,4 +6,5 @@
 1. Оплата покупки - GET /api/payment/{Shop|Online}/{amount} 
 2. Количество бонусов на счете банка - GET /api/bankAccountOfEMoney
 3. Количество наличных/безналичных денег - GET /api/money
+   
 ![изображение](https://github.com/Nitlenav/CommodityExchange/assets/5596345/682eed6f-32dd-47d9-b007-4844ca18df95)
